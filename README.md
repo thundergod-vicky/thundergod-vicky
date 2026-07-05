@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at GrowGlobal Strategies  <br>🌱 I’m currently learning Ai Agent and FullStack Development<br>💬 Ask me about my day and Tea<br>⚡ Fun fact I am still a Undergraduate Student 
-
+🔭 💻 Senior Software Developer & AIOps Engineer passionate about building scalable, high-performance applications.  <br>🌱 Designing AI-powered solutions, cloud-native systems, and modern full-stack applications.<br>💬 Continuously exploring AI Agents, DevOps, Cloud Infrastructure, and Distributed Systems.<br>⚡ Ask me about JavaScript, TypeScript, Node.js, React, Next.js, AWS, Docker, Kubernetes, or AI Engineering. <br> 🚀 Outside of coding, I'm building products, experimenting with new technologies, and working toward launching my own tech startup.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/souvik.basu.94695) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/commit.push) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souvik-basu-99a4581a2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bsouvik986@gmail.com) 
